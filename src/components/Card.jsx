@@ -1,4 +1,9 @@
 /**
+ * This showcases a simple component file
+ * We usually have a file for every component
+ */
+
+/**
  * This is whats called a JSDoc string/comment
  * Put information about how to use the component here
  */
@@ -13,4 +18,8 @@ function Card(props) {
   )
 }
 
+/**
+ * Since there is only a single definition in this file we are
+ * using the 'export default' statement here.
+ */
 export default Card
