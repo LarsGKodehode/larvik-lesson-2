@@ -4,7 +4,7 @@ import './App.css'
 import Card from './components/Card'
 
 // Data
-import { cardInfo } from './data/data'
+import { cardInfo, someOtherInfo } from './data/data'
 
 
 function handleClick(event) {
